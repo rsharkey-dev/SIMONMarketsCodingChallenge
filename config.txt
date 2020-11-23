@@ -1,0 +1,2 @@
+cooldowntime:30
+pinglimit:40
